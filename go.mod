@@ -1,4 +1,4 @@
-module github.com/csc-piscopo/xk6-mqtt
+module github.com/sibell/xk6-mqtt
 
 go 1.20
 
